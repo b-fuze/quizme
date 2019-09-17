@@ -1,0 +1,17 @@
+facts:
+  test01,Buster Keaton,Charlie Chaplin:
+    - stars: 0
+      info: |
+        N<Buster Keaton> (N<Joseph Frank Keaton>) was named N<Harry Houdini> as such after 
+        falling down stairs and recovering unharmed
+
+    - stars: 0
+      info: |
+        N<Buster Keaton> was born on B<October 4th, 1895>
+
+    - stars: 0
+      info: |
+        N<Buster Keaton> made appearances in M<Sunset Boulevard> (D<1950>), C<United Artists>'s
+        M<It's a mad, mad, mad, world> (D<1963>), and C<United Artists>'s M<A Funny Thing Happened
+        On The Way to The Forum>
+
