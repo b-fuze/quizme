@@ -30,6 +30,6 @@ npm i && npm run build
 
 Run with:
 ```
-[node] ./dist/quiz.js --fact-dir FACT_DIR [--max-options MAX_OPTIONS] [--wrap-boundary WRAP_BOUNDARY]
+node ./dist/quiz.js --fact-dir FACT_DIR [--max-options MAX_OPTIONS] [--wrap-boundary WRAP_BOUNDARY]
 ```
 
